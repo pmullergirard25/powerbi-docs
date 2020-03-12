@@ -53,9 +53,10 @@ Upon opening an existing .PBIX or .PBIT file that hasn't been upgraded, the upgr
 * Mark Logic ODBC
 * Qubole Presto
 * Team Desk
-* M expressions containing certain character combinations such as “\\n” in column names.
+* M expressions containing certain character combinations such as “\\n” in column names
+* When using datasets with the **enhanced dataset metadata** feature enabled, Single Sign On (SSO) data sources cannot be set up in the Power BI service
 
-In addition, .PBIX and .PBIT files that have already been successfully upgraded to use **enhanced dataset metadata* *cannot* use the above features or connectors in the current version.
+In addition, .PBIX and .PBIT files that have already been successfully upgraded to use **enhanced dataset metadata** *cannot* use the above features or connectors in the current version.
 
 
 ## Next steps
